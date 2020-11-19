@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">BestPrice</string>
     <string name="title_home">Home</string>
+    <string name="title_zipcode">Welcome</string>
     <string name="title_groceries">Groceries</string>
     <string name="title_orders">Orders</string>
     <string name="title_account">Account</string>
@@ -11,9 +12,13 @@
     <string name="dairy_eggs">Dairy &amp; eggs</string>
     <string name="beverages">Beverages</string>
     <string name="pantry">Pantry</string>
+    <string name="categories">All categories</string>
+    <string name="popular">Popular items</string>
 
     <string name="button_home">Create your grocery list</string>
-    <string name="home_title">Get the best price for your groceries.</string>
+    <string name="home_title1">Get the</string>
+    <string name="home_title2">best price</string>
+    <string name="home_title3">for your groceries.</string>
     <string name="stores_list">Stores near you</string>
     <string name="market_basket">Market Basket</string>
     <string name="wegmans">Wegmans</string>
@@ -21,4 +26,17 @@
     <string name="stop_shop">Stop &amp; Shop</string>
     <string name="shawns">Shawn\'s</string>
     <string name="americas_food_basket">America\'s Food Basket</string>
+
+    <string name="support">Support Center</string>
+    <string name="contact">Contact Us</string>
+    <string name="review">Review Best Price in the App Store</string>
+    <string name="about">About</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="stores_near">Find stores near you.</string>
+    <string name="continue_btn">Continue</string>
+    <string name="enter_zip_code">Enter your zip code</string>
+
+
 </resources>
